@@ -1,0 +1,8 @@
+Action.c(39): Total Number of tickets=3
+Action.c(41): Ticket City 1=London
+Action.c(42): Ticket City 2=London
+Action.c(43): Ticket City 3=Los Angeles
+Action.c(57): Del3
+Action.c(62): DEL ticket=3
+TotalNumber.c(21): Total Number of tickets= 2
+Vuser Terminated.
